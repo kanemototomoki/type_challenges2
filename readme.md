@@ -1,7 +1,7 @@
 
 ## 問題名
-- 
-- [回答]()
+- 問題URL
+- 回答
 
 ## 13-warm-hello-world
 - https://github.com/type-challenges/type-challenges/blob/master/questions/13-warm-hello-world/README.md
